@@ -1,0 +1,22 @@
+.menu {
+    display: flex;
+    align-items: flex-end;
+}
+
+a {
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+a:last-child {
+    margin-right: 0;
+}
+
+.logo {
+    width: 35px;
+    height: 35px;
+    margin-right: -4px;
+}

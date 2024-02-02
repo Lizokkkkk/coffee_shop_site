@@ -1,0 +1,26 @@
+.product-card {
+    display: block;
+    width: 220px;
+    height: 240px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.65);
+    cursor: pointer;
+}
+
+.coffee-img {
+    padding-top: 22px;
+    padding-bottom: 14px;
+}
+
+.product-name {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.product-price {
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 20px;
+    text-align: end;
+}

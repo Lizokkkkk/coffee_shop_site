@@ -1,0 +1,24 @@
+.our-best {
+    background: url(our-best-img/our-best-bg.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 80px;
+    padding-bottom: 110px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #000;
+}
+
+.header-our-best {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.best-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 71px;
+}
