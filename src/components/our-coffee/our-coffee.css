@@ -1,0 +1,13 @@
+.our-coffee {
+    background: url(./our-coffee-img/our-coffee.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 84px;
+}
+
+.our-coffee-header {
+    color: #fff;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 40px;
+    font-weight: 700;
+}

@@ -1,6 +1,7 @@
 .menu {
     display: flex;
     align-items: flex-end;
+    padding: 30px 148px;
 }
 
 a {

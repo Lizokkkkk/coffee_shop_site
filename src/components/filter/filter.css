@@ -1,0 +1,33 @@
+.filter {
+    display: flex;
+    align-items: center;
+}
+
+.filter-text {
+    margin-right: 35px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.filter-btn {
+    width: 73px;
+    height: 30px;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, .25);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.left-btn {
+    border-radius: 4px 0 0 4px;
+}
+
+.right-btn {
+    border-radius: 0 4px 4px 0;
+}

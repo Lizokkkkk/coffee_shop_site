@@ -1,0 +1,35 @@
+.coffee-card {
+    width: 220px;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, .15);
+    border-radius: 8px;
+    padding-top: 37px;
+    display: flex;
+    flex-direction: column;
+    padding: 37px 24px 22px 24px;
+}
+
+.coffee-img {
+    width: 167px;
+    /* margin: 0 auto; */
+    margin-bottom: 14px;
+}
+
+.coffee-name {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 14px;
+}
+
+.coffee-country {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: end;
+    margin-bottom: 14px;
+}
+
+.coffee-price {
+    font-size: 14px;
+    font-weight: 700;
+    text-align: end;
+}

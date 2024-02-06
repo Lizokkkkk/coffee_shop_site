@@ -1,0 +1,32 @@
+.search {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.serch-panel {
+    display: flex;
+    align-items: center;
+    margin-right: 83px;
+}
+
+.search-panel-text {
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.search-panel-input {
+    width: 180px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 6px 36px;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, .25);
+    outline: none;
+}
