@@ -6,7 +6,7 @@ import './about-our-beans.css';
 const AboutOurBeans = () => {
     return (
         <div className="about-our-beans">
-            <img src={aboutOurBeans} alt="About our beans img" />
+            <img src={aboutOurBeans} alt="About our beans img" className='img-beans' />
             <div className="beans-info">
                 <h1 className='beans-info-header'>About our beans</h1>
                 <img src={beansLogoBlack} alt="beans" />

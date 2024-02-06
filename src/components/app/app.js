@@ -7,6 +7,7 @@ import AboutOurBeans from "../about-our-beans/about-our-beans";
 import SearchPanel from "../search-panel/search-panel";
 import Filter from "../filter/filter";
 import CoffeeList from "../coffee-list/coffee-list";
+import AboutIt from "../about-it/about-it";
 
 import "./app.css";
 
@@ -25,6 +26,9 @@ function App() {
         <Filter />
       </div>
       <CoffeeList />
+      <Footer />
+      <OurCoffee />
+      <AboutIt />
       <Footer />
     </div>
   );
